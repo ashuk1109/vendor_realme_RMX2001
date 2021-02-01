@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX2001/proprietary/etc/init/kpoc_charger.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/kpoc_charger.rc \
     vendor/realme/RMX2001/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so \
     vendor/realme/RMX2001/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so \
-    vendor/realme/RMX2001/proprietary/lib64/libmtkcam_featurepolicy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkcam_featurepolicy.so \
     vendor/realme/RMX2001/proprietary/product/vendor_overlay/29/lib/libvpud_vcodec.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/libvpud_vcodec.so
 
 PRODUCT_PACKAGES += \
